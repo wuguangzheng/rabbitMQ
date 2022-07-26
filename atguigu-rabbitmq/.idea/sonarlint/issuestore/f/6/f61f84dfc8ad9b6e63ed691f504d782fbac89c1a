@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•äñşÿÿÿÿ8’øòí0
+
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "channel".(‡î‰´ûÿÿÿÿ8÷†ñí0
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8±áòí0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(…‰â8ÿ†ñí0

@@ -1,0 +1,8 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "console" 4 times.(íæ¦¥ûÿÿÿÿ8ƒşÄ¶0
+A
+java:S1602",Remove useless curly braces around statement(ÔŞÈ9
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Ïùš
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(³Ïùš

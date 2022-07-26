@@ -1,0 +1,7 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëçËƒ
+A
+java:S1602",Remove useless curly braces around statement(ÔÞÈ9
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç§²öûÿÿÿÿ
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ç§²öûÿÿÿÿ

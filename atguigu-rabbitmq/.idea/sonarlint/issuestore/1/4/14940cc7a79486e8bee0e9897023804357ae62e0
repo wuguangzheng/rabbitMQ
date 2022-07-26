@@ -1,0 +1,8 @@
+
+Q	java:S125#"<This block of commented-out lines of code should be removed.(ñŠ‰
+V	java:S125)"<This block of commented-out lines of code should be removed.(ÌÆâıÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ğñ‹üÿÿÿÿ
+O
+java:S47195"9Replace charset name argument with StandardCharsets.UTF_8(ûÍ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Áä“³
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ß©¯æ
